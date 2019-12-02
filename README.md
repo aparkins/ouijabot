@@ -1,8 +1,8 @@
 # OuijaBot -- a haunting game for Discord
----
 
 OuijaBot is a bot for Discord that can be plugged into a server to start a spooky game with the members.
 
+---
 
 ## The game
 The bot will periodically raise a spirit unable to rest until the server is able to determine what keeps the spirit awake. The spirit provides clues by reacting to messages containing keyword clues. Any member who believes they have sussed out what has kept the spirit from their peaceful slumber can make a guess with "!spirit <guess>". If they guess correctly, the spirit will be put to rest and the bot will schedule a new spirit for some time in the future.
